@@ -10,4 +10,4 @@ logging:
       pivotal: DEBUG
 greeting:
   displayFortune: true
-quoteServiceUrl: http://quote-service-dev.cfapps.io/quote
+quoteServiceURL: http://quote-service-dev.cfapps.io/quote
